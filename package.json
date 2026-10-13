@@ -1,0 +1,15 @@
+{
+  "name": "agri-eda-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  
+"scripts": {
+  "start": "cd agri-eda-project && python -m streamlit run dashboard/eda_app.py"
+},
+
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}

@@ -1,0 +1,6 @@
+crop_type,mean_price,price_std,mean_yield_per_ha,price_cv_pct,revenue_per_ha
+rice,2187.52,68.05,48.82,3.11,106794.27
+wheat,2275.09,68.74,42.88,3.02,97561.04
+chickpea,5436.92,158.09,17.03,2.91,92569.15
+maize,2088.75,63.06,38.59,3.02,80614.85
+soybean,4611.09,130.87,13.97,2.84,64396.89
